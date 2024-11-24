@@ -1,0 +1,199 @@
+[
+  {
+    "id": "1",
+    "title": "iPhone 14 Pro",
+    "image": "https://i.ibb.co.com/Xjq2L6N/download.jpg",
+    "category": "Phones",
+    "price": 999,
+    "description": "Apple's latest flagship smartphone with A16 Bionic chip.",
+    "specification": ["6.1-inch OLED display", "128GB storage", "iOS 16"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "2",
+    "title": "Samsung Galaxy Watch 6",
+    "image": "https://i.ibb.co.com/V3920bk/download.jpg",
+    "category": "Smartwatch",
+    "price": 349,
+    "description": "Advanced smartwatch with health and fitness tracking.",
+    "specification": ["Bluetooth", "GPS", "Wear OS"],
+    "availability": true,
+    "rating": 4.7
+  },
+
+  {
+    "id": "3",
+    "title": "Jabra Elite 85h",
+    "image": "https://i.ibb.co.com/NnC73VX/download.jpg",
+    "category": "Headphones",
+    "price": 299,
+    "description": "Wireless headphones with excellent call quality.",
+    "specification": [
+      "36-hour battery life",
+      "Water-resistant",
+      "Bluetooth 5.0"
+    ],
+    "availability": false,
+    "rating": 4.5
+  },
+
+  {
+    "id": "4",
+    "title": "OnePlus 11",
+    "image": "https://i.ibb.co.com/NyS4xj2/download.jpg",
+    "category": "Phones",
+    "price": 749,
+    "description": "Flagship killer with blazing fast performance.",
+    "specification": ["6.7-inch AMOLED display", "256GB storage", "Android 13"],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "id": "5",
+    "title": "Bose Soundbar 700",
+    "image": "https://i.ibb.co.com/7Xvnt86/images.jpg",
+    "category": "Electronics",
+    "price": 799,
+    "description": "Premium soundbar with Alexa built-in.",
+    "specification": ["Bluetooth", "Wi-Fi", "Dolby Atmos"],
+    "availability": true,
+    "rating": 4.6
+  },
+
+  {
+    "id": "6",
+    "title": "Motorola Edge 40",
+    "image": "https://i.ibb.co.com/Njq7TPk/download.jpg",
+    "category": "Phones",
+    "price": 599,
+    "description": "Affordable smartphone with sleek design and advanced features.",
+    "specification": ["6.5-inch P-OLED display", "128GB storage", "Android 13"],
+    "availability": true,
+    "rating": 4.2
+  },
+  {
+    "id": "7",
+    "title": "Sony Bravia XR A80K",
+    "image": "https://i.ibb.co.com/Z8LCVB6/images.jpg",
+    "category": "Electronics",
+    "price": 1799,
+    "description": "OLED TV with 4K HDR and Google TV.",
+    "specification": ["55-inch display", "Dolby Vision", "HDMI 2.1"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "8",
+    "title": "Sony Xperia 5 V",
+    "image": "https://i.ibb.co.com/MNykh3N/download.jpg",
+    "category": "Phones",
+    "price": 999,
+    "description": "Compact and feature-packed smartphone with high-quality sound.",
+    "specification": ["6.1-inch OLED display", "128GB storage", "Android 13"],
+    "availability": false,
+    "rating": 4.4
+  },
+
+  {
+    "id": "9",
+    "title": "Apple Watch Series 9",
+    "image": "https://i.ibb.co.com/x2x6bWS/download.jpg",
+    "category": "Smartwatch",
+    "price": 399,
+    "description": "The ultimate wearable for health and fitness tracking.",
+    "specification": ["GPS", "Heart Rate Monitor", "watchOS 10"],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "10",
+    "title": "Samsung Galaxy S23 Ultra",
+    "image": "https://i.ibb.co.com/hDyxM2T/download.jpg",
+    "category": "Phones",
+    "price": 1199,
+    "description": "Premium Android smartphone with advanced camera capabilities.",
+    "specification": ["6.8-inch AMOLED display", "256GB storage", "Android 13"],
+    "availability": true,
+    "rating": 4.7
+  },
+
+  {
+    "id": "11",
+    "title": "Garmin Venu 2 Plus",
+    "image": "https://i.ibb.co.com/FhZXbXj/download.jpg",
+    "category": "Smartwatch",
+    "price": 449,
+    "description": "Premium GPS smartwatch for active lifestyles.",
+    "specification": ["AMOLED display", "Health Monitoring", "Music Storage"],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "id": "12",
+    "title": "MacBook Pro M2",
+    "image": "https://i.ibb.co.com/j4Jfn05/images.jpg",
+    "category": "Computers",
+    "price": 1999,
+    "description": "Apple's most powerful laptop with M2 chip.",
+    "specification": [
+      "14-inch Liquid Retina XDR",
+      "512GB SSD",
+      "macOS Ventura"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "id": "13",
+    "title": "Dell XPS 13 Plus",
+    "image": "https://i.ibb.co.com/L6TRzST/images.jpg",
+    "category": "Computers",
+    "price": 1599,
+    "description": "Ultra-thin laptop with premium design and performance.",
+    "specification": [
+      "13.4-inch InfinityEdge Display",
+      "1TB SSD",
+      "Windows 11"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "14",
+    "title": "Sony WH-1000XM5",
+    "image": "https://i.ibb.co.com/r5PwKRw/download.jpg",
+    "category": "Headphones",
+    "price": 399,
+    "description": "Industry-leading noise-canceling headphones.",
+    "specification": ["30-hour battery life", "Touch Control", "Bluetooth 5.2"],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "id": "15",
+    "title": "Bose 700 Headphones",
+    "image": "https://i.ibb.co.com/MSfmJnF/images.jpg",
+    "category": "Headphones",
+    "price": 379,
+    "description": "Comfortable headphones with excellent noise cancellation.",
+    "specification": [
+      "20-hour battery life",
+      "Voice Assistant",
+      "Bluetooth 5.0"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "id": "16",
+    "title": "Google Pixel 8",
+    "image": "https://i.ibb.co.com/5GtNbxv/download.jpg",
+    "category": "Phones",
+    "price": 899,
+    "description": "The ultimate AI-powered Android phone by Google.",
+    "specification": ["6.2-inch OLED display", "128GB storage", "Android 14"],
+    "availability": true,
+    "rating": 4.5
+  }
+]

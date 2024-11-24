@@ -45,7 +45,7 @@ const ProductDetails = () => {
     <div className="relative  ">
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Product Details</title>
+        <title>Gadged Haven/Product Details</title>
         <link rel="canonical" href="http://mysite.com/example" />
       </Helmet>
       <Heading

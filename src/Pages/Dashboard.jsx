@@ -8,7 +8,7 @@ const Dashboard = () => {
     <div>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Dashbord</title>
+        <title>Gadged Haven/Dashbord</title>
         <link rel="canonical" href="http://mysite.com/example" />
       </Helmet>
       <Heading
@@ -16,8 +16,7 @@ const Dashboard = () => {
         subTitle={
           "Explore the latest gadgets that will take your experience to the next level. From smart devices to the coolest accessories, we have it all!"
         }
-      >
-      </Heading>
+      ></Heading>
       <Outlet></Outlet>
     </div>
   );

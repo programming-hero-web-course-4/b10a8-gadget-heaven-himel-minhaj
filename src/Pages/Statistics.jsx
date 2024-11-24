@@ -12,7 +12,7 @@ const Statistics = () => {
     <div>
       <Helmet>
         <meta charSet="utf-8" />
-        <title>Statistics</title>
+        <title>Gadged Haven/Statistics</title>
         <link rel="canonical" href="http://mysite.com/example" />
       </Helmet>
       <Heading
